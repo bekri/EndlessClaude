@@ -114,7 +114,6 @@ Contributions, issues, and feature requests are welcome!
 - [ ] Add export chat functionality
 - [ ] Implement file sharing capabilities
 
-![Additional screenshots placeholder]
 
 ## ⚙️ Self Hosting
 
