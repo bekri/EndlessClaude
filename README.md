@@ -1,7 +1,8 @@
 # EndlessClaude
 A modern, responsive web interface for unlimited free access to Claude AI, with no signups, no usage limits, and completely free forever. This project provides a clean, Discord-inspired chat interface for having unlimited conversations with Claude AI.
 
-![Screenshot placeholder]
+![Desktop View](https://github.com/user-attachments/assets/9eb01384-34c2-40c3-8b1d-ebbb44563c3e)
+![Mobile View](https://github.com/user-attachments/assets/c763d57c-2a5d-4ae2-a56d-432255ae4279)
 
 ## ✨ Key Highlights
 
@@ -32,7 +33,8 @@ A modern, responsive web interface for unlimited free access to Claude AI, with 
 
 **Try it out:** [Claude Chat UI](https://guify.ct.ws)
 
-![Demo Screenshot placeholder]
+![Let Puter Cook](https://github.com/user-attachments/assets/9db7e8a7-8bdb-4b9f-a2f8-46a5abdd4fbd)
+
 
 ## ⚠️ Important Notes
 
