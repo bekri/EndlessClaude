@@ -44,6 +44,11 @@ A modern, responsive web interface for unlimited free access to Claude AI, with 
 
 ![Let Puter Cook](https://github.com/user-attachments/assets/9db7e8a7-8bdb-4b9f-a2f8-46a5abdd4fbd)
 
+**Demo**
+
+![image](https://github.com/user-attachments/assets/18139044-17af-4494-b720-af691122741a)
+
+
 
 ## ⚠️ Important Notes
 
