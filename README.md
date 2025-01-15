@@ -2,9 +2,12 @@
 A modern, responsive web interface for unlimited free access to Claude AI, with no signups, no usage limits, and completely free forever. This project provides a clean, Discord-inspired chat interface for having unlimited conversations with Claude AI.
 
 **Desktop View**
+
 ![Desktop View](https://github.com/user-attachments/assets/9eb01384-34c2-40c3-8b1d-ebbb44563c3e)
 
+
 **Mobile View**
+
 ![Mobile View](https://github.com/user-attachments/assets/c763d57c-2a5d-4ae2-a56d-432255ae4279)
 
 ## ✨ Key Highlights
