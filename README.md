@@ -1,4 +1,6 @@
 # EndlessClaude 🤖
+> ⚡ Modernized Version <br> This project has been rebuilt with React for improved scalability and interactivity. Check out the [React version here](https://github.com/usualdork/AI-Chat-Assistant).
+
 A modern, responsive web interface for unlimited free access to Claude AI, with no signups, no usage limits, and completely free forever. This project provides a clean, Discord-inspired chat interface for having unlimited conversations with Claude AI.
 
 
@@ -38,7 +40,7 @@ A modern, responsive web interface for unlimited free access to Claude AI, with 
 
 ## 🚀 Live Demo
 
-**Try it out:** [Claude Chat UI](https://guify.ct.ws)
+**Try it out:** [Claude Chat UI](https://guify.ct.ws/claude.html)
 
 **Let Puter Cook**
 
