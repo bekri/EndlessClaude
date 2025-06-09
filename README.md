@@ -123,7 +123,7 @@ Contributions, issues, and feature requests are welcome!
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/project-name.git
+   git clone https://github.com/usualdork/EndlessClaude.git
    ```
 2. Configure your Puter API credentials
 3. Deploy to your preferred hosting service
